@@ -1,0 +1,33 @@
+Date,Category,Subcategory,Description,Amount, Payment Method,Location,Merchant,Income,Savings,Notes,Day
+2024-06-01,Food,Groceries,Grocery shopping,50,Credit Card,New York,Walmart,150,100,Bought weekly supplies,Tuesday
+2024-06-01,Transportation,Public Transit,Bus ticket,2.5,Cash,New York,MTA,150,100,Daily commute,Tuesday
+2024-06-01,Entertainment,Movies,Movie ticket,12,Debit Card,New York,AMC Theatres,150,100,Watched a new release,Tuesday
+2024-06-02,Food,Dining Out,Restaurant lunch,25,Credit Card,New York,McDonald's,150,125,Lunch with colleagues,Wednesday
+2024-06-02,Utilities,Electricity,Electricity bill,60,Debit Card,New York,ConEdison,150,90,Monthly bill payment,Wednesday
+2024-06-03,Healthcare,Medical,Doctor's visit,80,Credit Card,New York,City Hospital,200,120,Annual check-up,Thursday
+2024-06-03,Education,Books,Textbooks,40,Credit Card,New York,Barnes & Noble,200,160,Semester textbooks,Thursday
+2024-06-03,Rent,Housing,Monthly rent,1200,Bank Transfer,New York,Landlord,1500,300,Rent for June,Thursday
+2024-06-03,Transportation,Ride Share,Uber ride,20,Credit Card,New York,Uber,1500,300,Ride to airport,Thursday
+2024-06-03,Food,Groceries,,45,Cash,New York,Walmart,140,95,Weekly grocery run,Thursday
+2024-06-11,Entertainment,Concerts,Concert ticket,100,Credit Card,New York,Ticketmaster,140,40,Live music event,Friday
+2024-06-11,Food,Dining Out,Restaurant dinner,30,Credit Card,New York,KFC,120,90,Dinner with friends,Friday
+2024-06-11,Health,Fitness,Gym membership,40,Debit Card,New York,Gold's Gym,120,80,Monthly gym fee,Friday
+2024-06-11,Clothing,Apparel,Shoes purchase,70,Credit Card,New York,Nike Store,160,90,New running shoes,Friday
+2024-06-13,Transportation,Fuel,Gasoline,50,Credit Card,New York,Shell,160,90,Filled up the tank,Sunday
+2024-06-15,Entertainment,Concerts,Concert ticket,100,Credit Card,New York,Ticketmaster,140,40,Live music event,Tuesday
+2024-06-15,Food,Dining Out,Restaurant dinner,30,Credit Card,New York,KFC,120,90,Dinner with friends,Tuesday
+2024-06-20,Health,Fitness,Gym membership,40,Debit Card,New York,Gold's Gym,120,80,Monthly gym fee,Sunday
+2024-06-20,Clothing,Apparel,Shoes purchase,70,Credit Card,New York,Nike Store,160,90,New running shoes,Sunday
+2024-06-20,Transportation,Fuel,Gasoline,50,Cash,New York,Shell,160,90,Filled up the tank,Sunday
+2024-06-25,Food,Dining Out,Restaurant dinner,2000,Cash,New York,KFC,3000,1000,Dinner with friends,Friday
+2024-07-01,Entertainment,Concerts,Concert ticket,100,Credit Card,New York,Ticketmaster,140,40,Live music event,Thursday
+2024-07-01,Food,Dining Out,Restaurant dinner,30,Credit Card,New York,KFC,120,90,Dinner with friends,Thursday
+2024-07-01,Health,Fitness,Gym membership,40,Debit Card,New York,Gold's Gym,120,80,Monthly gym fee,Thursday
+2024-07-11,Clothing,Apparel,Shoes purchase,70,Credit Card,New York,Nike Store,160,90,New running shoes,Sunday
+2024-07-11,Transportation,Fuel,Gasoline,50,Credit Card,New York,Shell,160,90,Filled up the tank,Sunday
+2024-07-11,Entertainment,Concerts,Concert ticket,100,Credit Card,New York,Ticketmaster,140,40,Live music event,Sunday
+2024-07-25,Food,Dining Out,Restaurant dinner,30,Credit Card,New York,KFC,120,90,Dinner with friends,Tuesday
+2024-07-25,Health,Fitness,Gym membership,40,Debit Card,New York,Gold's Gym,120,80,Monthly gym fee,Sunday
+2024-07-25,Clothing,Apparel,Shoes purchase,70,Credit Card,New York,Nike Store,160,90,New running shoes,Sunday
+2024-07-25,Transportation,Fuel,Gasoline,50,Cash,New York,Shell,160,90,Filled up the tank,Sunday
+2024-07-30,Food,Dining Out,Restaurant dinner,2000,Cash,New York,KFC,3000,1000,Dinner with friends,Friday
